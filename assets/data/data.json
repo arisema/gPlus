@@ -1,0 +1,62 @@
+
+{
+    "News":
+    [
+      {
+          "image":"assets/data/images/nucleartest.jpg",
+          "title":"New sanction against North Korea over nuclear test unanimously pass at UN-World News - Haaretz.com",
+          "detail":"",
+          "contributor":"Haaretz.com"
+      },
+      {
+          "image":"assets/data/images/floridairma.jpg",
+          "title":"Florida Keys in crisis as state cleans up after Irma",
+          "detail":"Florida Keys in crisis as state cleans up after Irma http://nyp.st/2eSDln9",
+          "contributor":"ELLE"
+      }
+    ],
+    "Tech" :
+    [
+        {
+            "image":"assets/data/images/xiaomilaptop.jpg",
+            "title":"Xiaomi's latest laptop targets Apple's MacBook Pro",
+            "detail":"Damn. #Xiaomi is nailing it with their design these days both for their mobile phones and now laptops too. Watch out samsun and Apple! :-o...",
+            "contributor":"Jason Mayes"
+        },
+
+        {
+            "image":"assets/data/images/linuxneverfully.jpg",
+            "title":"Linux Will Never be Adopted Widely, Here is why",
+            "detail":"What do you think?",
+            "contributor":"Saurabuth Tripathi"
+        },
+        {
+            "image":"assets/data/images/lgv30.jpg",
+            "title":"LG V30 is Probably The Best Phone The Company has Ever Made - Getting Geek",
+            "detail": "ICYMI",
+            "contributor":"Saurabuth Tripathi"
+        }
+
+    ],
+    "Others" :
+    [
+      {
+          "image":"assets/data/images/gigihadid.jpg",
+          "title":"http://www.elle.com/author/2434/lauren-fisher/",
+          "detail":"Gigi Hadid and Tommy Hilfiger Created Their Own Tour Merch For Fall 2017",
+          "contributor":"ELLE"
+      },
+            {
+          "image":"assets/data/images/seahawkspackers.jpg",
+          "title":"3 reasons the Cowboys dominated the Giants on'Sunday Night Football'",
+          "detail":"",
+          "contributor":"Mike S"
+      },
+            {
+          "image":"assets/data/images/berrypie.jpg",
+          "title":"Gentle Fill Pie With Berries | Good food. Best Recipies",
+          "detail":"Gentle Fill Pie With Berries",
+          "contributor":"Svetlanta Tovstopyat"
+      }
+    ]
+}
